@@ -16,3 +16,11 @@ OS X:
 Win / nix:
 
 1. Grab the png from `/pngs` and _magic_ it into an icon (Anyone want to spell this out?)
+
+---
+
+###Icons:###
+
+V1
+
+<img src="https://github.com/tw12lve/sublimetext2-icons/raw/master/pngs/v1.png">
