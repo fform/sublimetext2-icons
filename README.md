@@ -9,15 +9,15 @@ Since it's on my dock all day, I wanted something a little smoother. This is tha
 
 V3
 
-<img src="https://github.com/tw12lve/sublimetext2-icons/raw/master/iconsets/v3.iconset/icon_512.png">
+<img src="https://raw.github.com/fform/sublimetext2-icons/master/iconsets/v3.iconset/icon_512.png">
 
 V2
 
-<img src="https://github.com/tw12lve/sublimetext2-icons/raw/master/iconsets/v2.iconset/icon_512.png">
+<img src="https://github.com/fform/sublimetext2-icons/raw/master/iconsets/v2.iconset/icon_512.png">
 
 V1
 
-<img src="https://github.com/tw12lve/sublimetext2-icons/raw/master/pngs/v1.png">
+<img src="https://github.com/fform/sublimetext2-icons/raw/master/pngs/v1.png">
 
 ## To Install ##
 
