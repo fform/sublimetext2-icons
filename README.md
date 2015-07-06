@@ -9,7 +9,7 @@ Since it's on my dock all day, I wanted something a little smoother. This is tha
 
 V4
 
-<img src="https://github.com/fform/sublimetext2-icons/master/iconsets/v4.iconset/icon_512.png">
+<img src="https://raw.githubusercontent.com/fform/sublimetext2-icons/master/iconsets/v4.iconset/512.png">
 
 V3
 
