@@ -7,6 +7,10 @@ Since it's on my dock all day, I wanted something a little smoother. This is tha
 
 ###Icons:###
 
+V4
+
+<img src="https://github.com/tw12lve/sublimetext2-icons/raw/master/iconsets/v4.iconset/icon_512.png">
+
 V3
 
 <img src="https://raw.github.com/fform/sublimetext2-icons/master/iconsets/v3.iconset/icon_512.png">
